@@ -10,9 +10,11 @@ Arquivos:
  style.xml = é onde guardaremos os estilos.
  
  Exibindo alertDialog:  
+ <a href="https://github.com/BrenoCardoso2002/Custom_AlertDialog-Android_Studio/blob/main/alertDialog.png"> 
  <img src="./alertDialog.png" alt="Minha Figura" 
      width="25%" 
      height="25%">
+ </a>
 
 
 Criado por: Breno Cardoso;  
