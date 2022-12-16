@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo que deixa o fundo mais escuro quando a AlertDialog estiver aberta -->
+    <style name="CustomDialog">
+        <item name="android:backgroundTint">#80000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+</resources>
